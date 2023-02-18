@@ -1,2 +1,2 @@
 # Curso-JS
-repositorio de curso js
+Este es un proyecto de prueba
